@@ -1,0 +1,27 @@
+html{
+	font: 12px Arial;
+	line-height: 2em;
+	color: #333;
+}
+a{
+	color:#727272;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.white{
+	color: #fff;
+}
+.special{
+	color: #fdb306;
+}
+#nomal{
+ 	font-weight:bolder;
+ 	font-size: 14px;
+ 	color:#b9f605;
+}
+#a:hover{
+	text-decoration: none;
+	color:#b9f605;
+}
